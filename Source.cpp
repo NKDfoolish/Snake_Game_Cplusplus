@@ -132,10 +132,10 @@ void play() {
 		//--------- speed --------
 		if (check == 2 || check == 3)
 		{
-			Sleep(500);
+			Sleep(70);
 		}
 		else {
-			Sleep(500);
+			Sleep(115);
 		}
 	}
 }
